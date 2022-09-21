@@ -15,7 +15,7 @@ Sorting is a very classic problem of reordering items (that can be compared, e.g
    5. Quick Sort,
    6. Heap Sort
 
-
+![Time and Space Complexities](https://dharanaesh.github.com/assets/)
 ## Motivation
 When an (integer) array A is sorted, many problems involving A become easy (or easier):
 
